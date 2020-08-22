@@ -1,1 +1,2 @@
-Replace this with your name, and include a header.
+## ELA
+##### *What good shall I do this day?* - Benjamin Franklin 
